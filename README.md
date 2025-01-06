@@ -20,9 +20,13 @@ The scripts are by Ehouarn Le Faou, with the extensive use of a template for lin
 # Author research gate profile
 
 Jörn F. Gerchen: https://www.researchgate.net/scientific-contributions/Joern-F-Gerchen-2097776983
+
 Nora Villamil-Buenrostro: https://www.researchgate.net/profile/Nora-Villamil-Buenrostro-2
+
 Xinji Li: https://www.researchgate.net/profile/Xinji-Li
+
 Ehouarn Le Faou: https://www.researchgate.net/profile/Ehouarn-Le-Faou
+
 John R. Pannell: https://www.researchgate.net/profile/John-Pannell-2
 
 # Contact
