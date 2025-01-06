@@ -17,6 +17,14 @@ File descriptions:
 The acquisition of data on the temporal dynamics where supervised by Nora Villamil-Buenrostro and Xinji Li, the data on within population phenotypes by Ehouarn Le Faou.
 The scripts are by Ehouarn Le Faou, with the extensive use of a template for linear modelling produced by Matteo Santon, Fraenzi Korner-Nievergelt, Nico Michiels, Nils Anthes, and published at the DOI:10.3389/fevo.2023.1065273
 
+# Author research gate profile
+
+Jörn F. Gerchen: https://www.researchgate.net/scientific-contributions/Joern-F-Gerchen-2097776983
+Nora Villamil-Buenrostro: https://www.researchgate.net/profile/Nora-Villamil-Buenrostro-2
+Xinji Li: https://www.researchgate.net/profile/Xinji-Li
+Ehouarn Le Faou: https://www.researchgate.net/profile/Ehouarn-Le-Faou
+John R. Pannell: https://www.researchgate.net/profile/John-Pannell-2
+
 # Contact
 
 The scripts are commented and a README file is available in the data subfolder to describe with more precision the different columns of the .csv files.
